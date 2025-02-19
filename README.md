@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Rigara - Hola, soy Rafael Rivera G
-- 👀 I’m interested in ...   - Aprender un poco de programación y HTML que me sirve en mi trabajo diario y páginas WEB
+- 👀 I’m interested in ...   - Aprender un poco de programación y HTML que me sirva en mi trabajo diario y páginas WEB
 - 🌱 I’m currently learning ...  Blender,  DaVinci Resolve y Diseño de Producción
 - 💞️ I’m looking to collaborate on ... Proyectos de Animación
 - 📫 How to reach me ...  www.telekinesis.mx
